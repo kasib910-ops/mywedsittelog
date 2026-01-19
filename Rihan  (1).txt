@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Reliable General Services | Home Contractor in Noida</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #f4f6f8;
+      color: #333;
+    }
+    header {
+      background: #1f3c88;
+      color: #fff;
+      padding: 20px 10px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+    header p {
+      margin: 5px 0 0;
+      font-size: 14px;
+    }
+    nav {
+      background: #162a5f;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    nav a {
+      color: #fff;
+      padding: 12px 18px;
+      text-decoration: none;
+      font-size: 14px;
+    }
+    nav a:hover {
+      background: #0f1f47;
+    }
+    .hero {
+      background: url('https://images.unsplash.com/photo-1501183638710-841dd1904471') center/cover no-repeat;
+      color: #fff;
+      padding: 80px 20px;
+      text-align: center;
+    }
+    .hero h2 {
+      font-size: 32px;
+      margin-bottom: 10px;
+    }
+    .hero p {
+      font-size: 16px;
+      max-width: 700px;
+      margin: auto;
+    }
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    .section-title {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .section-title h2 {
+      margin: 0;
+      font-size: 26px;
+      color: #1f3c88;
+    }
+    .services {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+    .service-box {
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .service-box h3 {
+      margin-top: 0;
+      color: #1f3c88;
+    }
+    .about {
+      background: #fff;
+      border-radius: 8px;
+      padding: 30px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .contact {
+      background: #1f3c88;
+      color: #fff;
+      padding: 40px 20px;
+    }
+    .contact-info {
+      max-width: 800px;
+      margin: auto;
+      text-align: center;
+    }
+    .contact-info p {
+      margin: 8px 0;
+      font-size: 15px;
+    }
+    footer {
+      background: #0f1f47;
+      color: #fff;
+      text-align: center;
+      padding: 15px 10px;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+
+
+  <header>
+    <h1>Reliable General Services</h1>
+    <p>Trusted Home Contractor in Noida</p>
+  </header>
+
+
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About Us</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+
+  <section class="hero" id="home">
+    <h2>Complete Home Construction & Renovation Solutions</h2>
+    <p>We provide reliable, affordable, and professional home contractor services for residential and commercial projects in Noida.</p>
+  </section>
+
+
+  <section class="container" id="about">
+    <div class="section-title">
+      <h2>About Us</h2>
+    </div>
+    <div class="about">
+      <p><strong>Reliable General Services</strong> is a trusted name in home contracting services in Noida near Noor Masjid. Under the guidance of <strong>Shamshad</strong>, we deliver quality workmanship, timely project completion, and customer satisfaction.</p>
+      <p>From small repair jobs to complete home renovation and construction, we handle all types of civil and interior works with skilled professionals.</p>
+    </div>
+  </section>
+
+
+  <section class="container" id="gallery">
+    <div class="section-title">
+      <h2>Our Work Photos</h2>
+    </div>
+    <div class="services">
+      <div class="service-box">
+        <img src="https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea" alt="Construction Site" style="width:100%; border-radius:6px;">
+        <h3>Construction Site Work</h3>
+      </div>
+      <div class="service-box">
+        <img src="https://images.unsplash.com/photo-1598928506311-c55ded91a20c" alt="Tile Flooring" style="width:100%; border-radius:6px;">
+        <h3>Tile & Flooring</h3>
+      </div>
+      <div class="service-box">
+        <img src="https://images.unsplash.com/photo-1570129477492-45c003edd2be" alt="Exterior Painting" style="width:100%; border-radius:6px;">
+        <h3>Exterior Painting</h3>
+      </div>
+      <div class="service-box">
+        <img src="https://images.unsplash.com/photo-1584622650111-993a426fbf0a" alt="Bathroom Work" style="width:100%; border-radius:6px;">
+        <h3>Bathroom Renovation</h3>
+      </div>
+      <div class="service-box">
+        <img src="https://images.unsplash.com/photo-1615874959474-d609969a20ed" alt="Kitchen Work" style="width:100%; border-radius:6px;">
+        <h3>Modular Kitchen</h3>
+      </div>
+      <div class="service-box">
+        <img src="https://images.unsplash.com/photo-1581092160613-bc3c8a85c78f" alt="Electrical Work" style="width:100%; border-radius:6px;">
+        <h3>Electrical & Wiring</h3>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="container" id="services">
+    <div class="section-title">
+      <h2>Our Services</h2>
+    </div>
+    <div class="services">
+      <div class="service-box">
+        <h3>Home Construction</h3>
+        <p>Complete house construction from foundation to finishing with quality materials.</p>
+      </div>
+      <div class="service-box">
+        <h3>Home Renovation</h3>
+        <p>Upgrade and renovate your old home with modern designs and strong finishing.</p>
+      </div>
+      <div class="service-box">
+        <h3>Interior & Exterior Work</h3>
+        <p>Painting, false ceiling, flooring, tiles, and full interior solutions.</p>
+      </div>
+      <div class="service-box">
+        <h3>Plumbing & Electrical</h3>
+        <p>All types of plumbing and electrical installation and repair services.</p>
+      </div>
+      <div class="service-box">
+        <h3>Repair & Maintenance</h3>
+        <p>Regular maintenance, repair work, and emergency service support.</p>
+      </div>
+    </div>
+  </section>
+
+
+    <section class="container" id="gallery-more">
+    <div class="section-title">
+      <h2>More Project Photos</h2>
+    </div>
+    <div class="services">
+      <div class="service-box">
+        <img src="https://images.unsplash.com/photo-1523413651479-597eb2da0ad6" alt="False Ceiling" style="width:100%; border-radius:6px;">
+        <h3>False Ceiling Work</h3>
+      </div>
+      <div class="service-box">
+        <img src="https://images.unsplash.com/photo-1600585154526-990dced4db0d" alt="Living Room Interior" style="width:100%; border-radius:6px;">
+        <h3>Living Room Interior</h3>
+      </div>
+      <div class="service-box">
+        <img src="https://images.unsplash.com/photo-1595526114035-45c5d5b0c0b6" alt="Bedroom Interior" style="width:100%; border-radius:6px;">
+        <h3>Bedroom Interior</h3>
+      </div>
+      <div class="service-box">
+        <img src="https://images.unsplash.com/photo-1583847268964-b28dc8f51f92" alt="Wall Putty" style="width:100%; border-radius:6px;">
+        <h3>Wall Putty & Finishing</h3>
+      </div>
+      <div class="service-box">
+        <img src="https://images.unsplash.com/photo-1628744877930-4b4a5bba7e76" alt="Waterproofing" style="width:100%; border-radius:6px;">
+        <h3>Waterproofing Work</h3>
+      </div>
+      <div class="service-box">
+        <img src="https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b" alt="Commercial Renovation" style="width:100%; border-radius:6px;">
+        <h3>Commercial Renovation</h3>
+      </div>
+    </div>
+  </section>
+
+
+<section class="contact" id="contact">
+    <div class="contact-info">
+      <h2>Contact Us</h2>
+      <p><strong>Owner:</strong> Shamshad</p>
+      <p><strong>Business:</strong> Reliable General Services</p>
+      <p><strong>Location:</strong> Noida (Near Noor Masjid)</p>
+      <p><strong>Phone:</strong> 7838608201, 9217798201</p>
+      <p><strong>Email:</strong> kasib910@outlook.com</p>
+    </div>
+  </section>
+
+
+  <footer>
+    <p>© 2026 Reliable General Services. All Rights Reserved.</p>
+  </footer>
+
+
+</body>
+</html>
+
